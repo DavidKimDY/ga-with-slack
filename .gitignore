@@ -1,0 +1,6 @@
+__pycache__
+ga_key_file.json
+key.json
+*.ipynb
+.DS_Store
+.idea

@@ -1,0 +1,1118 @@
+{
+	"reports": [
+		{
+			"columnHeader": {
+				"dimensions": [
+					"ga:pageTitle"
+				],
+				"metricHeader": {
+					"metricHeaderEntries": [
+						{
+							"name": "ga:users",
+							"type": "INTEGER"
+						},
+						{
+							"name": "ga:pageViews",
+							"type": "INTEGER"
+						}
+					]
+				}
+			},
+			"data": {
+				"rows": [
+					{
+						"dimensions": [
+							"Core.Today"
+						],
+						"metrics": [
+							{
+								"values": [
+									"71",
+									"337"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [공공기관 남녀 임금격차] 공기업 - 정규직(일반정규직)"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [공공기관 남녀 임금격차] 기타공공기관&부설기관 - 정규직(일반정규직)"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [공공기관 남녀 임금격차] 준정부기관 - 정규직(일반정규직)"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [공공기관 일가정 양립 지원제도] 준정부기관"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [부동산 스토리] 2017~2020 울산광역시 아파트 실거래가격 변화"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [부동산 스토리] 전국 아파트 데이터 통계"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [코로나19 현황 데이터 시각화] 1. 오픈API 사용법"
+						],
+						"metrics": [
+							{
+								"values": [
+									"30",
+									"59"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [코로나19 현황 데이터 시각화] 2. XML to DataFrame 변환하기"
+						],
+						"metrics": [
+							{
+								"values": [
+									"12",
+									"19"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [코로나19 현황 데이터 시각화] 3. Pandas DataFrame 다루기"
+						],
+						"metrics": [
+							{
+								"values": [
+									"9",
+									"19"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [코로나19 현황 데이터 시각화] 4. plotly를 활용한 데이터 시각화 - Coronaboard.kr 따라하기"
+						],
+						"metrics": [
+							{
+								"values": [
+									"9",
+									"10"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [판다스 기초] 10 Minutes to Pandas"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 2020년 소비자물가지수 증가율이 0%대... 하지만 서민 가계의 부담은 왜 커질까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 4.15 총선 - 고3 유권자는 얼마나 될까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 4.15 총선 - 만 18세 유권자의 영향력은?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - ISA 계좌 너 도대체 뭐니..?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - KBO 리그 데이터 분석 (feat. plotly사용법) - 선수들의 타율,나이, 연봉 분석"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - KBO에서 메이저리그로 진출할 선수 예측 (크롤링편)"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"3"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - KBO에서 메이저리그로 진출할 선수 예측 (타자편 2)"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - LoL(리그오브레전드) 데이터 분석 - 높은 티어와 낮은 티어의 차이는?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"24",
+									"27"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - PER(주가수익률)로 맘대로 생각해보기"
+						],
+						"metrics": [
+							{
+								"values": [
+									"3",
+									"10"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - PX 인기상품 3편! (어떤 음료수가 인기있나 편)"
+						],
+						"metrics": [
+							{
+								"values": [
+									"3",
+									"3"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - Python으로 하는 통계(t-test)"
+						],
+						"metrics": [
+							{
+								"values": [
+									"7",
+									"12"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - XOR 신경망 with Keras"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 개미 '김일반'씨의 재테크 일기"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 게임산업 분석을 통한 유망직종 '프로게이머'"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 결혼하기에 적절한 부부의 나이차이는 얼마일까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 공공데이터"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"6"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 구독, 좋아요 수가 많을수록 조회수가 많이 올라갈까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"9",
+									"9"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 그래프에 의도담기 2"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 금연정책 흡연율, 흡연량에 어떠한 변화가 있었을까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 기본 API"
+						],
+						"metrics": [
+							{
+								"values": [
+									"8",
+									"18"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 기업의 실적발표 후 주가는 어떻게 변할까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 낮은 PER 주식(저퍼주)은 실제로 좋은 성과를 낼까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 노인이 자살을 생각하는 이유는?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 대통령이 바뀌면 경제가 바뀔까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 데이터로 알아보는 최저임금"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 드라마 단순 예측 1"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 드라마 시청률 예측"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 드라마 예측"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 드라마 중간광고로 인해 시청자들의 이탈이 발생할까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 드라마 첫회 시청률 예측 (요일, 방송사, 전작 시청률, 등등)"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 드라마에 출연하는 배우의 수가 많을수록 드라마의 시청률은 올라갈까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 드라마의 첫 회 시청률과 흥행, 그리고 배우들의 시청률 스탯을 탐색해보자"
+						],
+						"metrics": [
+							{
+								"values": [
+									"3",
+									"4"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 랭킹데이터"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 로또의 상대적 가치 - 서울 아파트"
+						],
+						"metrics": [
+							{
+								"values": [
+									"8",
+									"34"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 로지스틱 맵"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 멜론차트 분석 - 백현(EXO) vs 아이유, 누가 새벽에 순위가 높을까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 몬테카를로 방법(Monte carlo)으로 원 넓이 구해보자"
+						],
+						"metrics": [
+							{
+								"values": [
+									"8",
+									"20"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 미혼모, 미혼부 데이터 EDA"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 분석데이터"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 사회데이터"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 서울 미쉐린 식당 분석"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 서핑하기 좋은 달은 언제일까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"3",
+									"3"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 세계 시총 1위 주식을 산다면?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 소설데이터"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"4"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 스토캐스틱 매매 전략 백테스팅"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 시청률이 높은 미니시리즈 드라마에서 자주 나오는 키워드가 있을까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 신종 코로나 현황(2월) - 지하철이용객, 영화관객 대폭 감소"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"3"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 울산광역시 시민들이 가장 많이 이용하는 정류장과 노선은 무엇일까요?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 인구, 성별 데이터 EDA"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 인기 API"
+						],
+						"metrics": [
+							{
+								"values": [
+									"3",
+									"4"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 자신만의 손절, 익절라인을 지키는 매매와 그렇지 않은 매매, 어느것이 좋은가?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"3",
+									"3"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 장르데이터 수집 > 장르사전 공유"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 좋은 배당주를 골라보자."
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 지도 시각화 - 코로나 국내, 세계 현황(By Choropleth Map)"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 지상파 꼼수 중간광고 영향 알아보기"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 코로나 재확산으로 고용한파.. 2030대에 직격탄인 이유는?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 코로나 종식 후 어디로 놀러갈까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 코로나19 확산과 유기동물 안락사 증가"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 코로나19가 울산광역시 시민들의 시내버스 이용에 영향을 미쳤을까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 코스피와 집값의 관계 - 코스피 지수가 하락하면 집값도 하락할까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 테스트 스토리"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 티저영상이 많을수록 드라마 시청률이 높을까?!?!"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 티저영상이 많을수록 드라마 시청률이 높을까?!?! 2탄"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 파이썬 시각화 기초 - 구글 트렌드로 알아보는 데이터속의 신호"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 폭염일수 많은 해에는 농산물 가격이 많이 올라갈까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 폭염일수가 많은 1994년, 2018년에 물가가 가장 많이 오른 농작물은?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 하루라도.. 최저가에 사고싶다.."
+						],
+						"metrics": [
+							{
+								"values": [
+									"3",
+									"3"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 하루라도..최저가에 사고 싶다. 데이터수집편"
+						],
+						"metrics": [
+							{
+								"values": [
+									"3",
+									"4"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 혈액형 속 진실은 무엇일까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"4",
+									"6"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 휴대폰 중고가격 분석 1편 - 아이폰vs갤럭시 중고 휴대폰 가격 및 추이 분석"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					}
+				],
+				"totals": [
+					{
+						"values": [
+							"304",
+							"700"
+						]
+					}
+				],
+				"rowCount": 82,
+				"minimums": [
+					{
+						"values": [
+							"1",
+							"1"
+						]
+					}
+				],
+				"maximums": [
+					{
+						"values": [
+							"71",
+							"337"
+						]
+					}
+				]
+			}
+		}
+	]
+}
