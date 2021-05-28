@@ -1,6 +1,8 @@
 __pycache__
-ga_key_file.json
+ga_key_file.jso
 key.json
 *.ipynb
 .DS_Store
 .idea
+google_analytics_api_key.json
+slack_api_key.json

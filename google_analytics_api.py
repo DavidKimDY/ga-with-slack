@@ -7,7 +7,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 
 SCOPES = ["https://www.googleapis.com/auth/analytics.readonly"]
-KEY_FILE_LOCATION = "ga_key_file.json"
+KEY_FILE_LOCATION = "google_anaytics_api_key.json"
 VIEW_ID = "214197006"
 VIEW_ID_USER_ID = "214214459"
 
