@@ -27,54 +27,15 @@
 						"metrics": [
 							{
 								"values": [
-									"27",
-									"79"
+									"19",
+									"53"
 								]
 							}
 						]
 					},
 					{
 						"dimensions": [
-							"Core.Today - [코로나19 현황 데이터 시각화] 1. 오픈API 사용법"
-						],
-						"metrics": [
-							{
-								"values": [
-									"6",
-									"10"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - [코로나19 현황 데이터 시각화] 2. XML to DataFrame 변환하기"
-						],
-						"metrics": [
-							{
-								"values": [
-									"4",
-									"7"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - [코로나19 현황 데이터 시각화] 3. Pandas DataFrame 다루기"
-						],
-						"metrics": [
-							{
-								"values": [
-									"3",
-									"4"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - [코로나19 현황 데이터 시각화] 4. plotly를 활용한 데이터 시각화 - Coronaboard.kr 따라하기"
+							"Core.Today - [공공기관 임금] 기타공공기관&부설기관 기관별 연봉 정보"
 						],
 						"metrics": [
 							{
@@ -87,7 +48,98 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 2020년 소비자물가지수 증가율이 0%대... 하지만 서민 가계의 부담은 왜 커질까?"
+							"Core.Today - [부동산 스토리] 2017~2020 울산광역시 아파트 실거래가격 변화"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [부동산 스토리] 전국 아파트 데이터 통계"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [코로나19 현황 데이터 시각화] 1. 오픈API 사용법"
+						],
+						"metrics": [
+							{
+								"values": [
+									"4",
+									"11"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [코로나19 현황 데이터 시각화] 2. XML to DataFrame 변환하기"
+						],
+						"metrics": [
+							{
+								"values": [
+									"4",
+									"11"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [코로나19 현황 데이터 시각화] 3. Pandas DataFrame 다루기"
+						],
+						"metrics": [
+							{
+								"values": [
+									"5",
+									"11"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - [코로나19 현황 데이터 시각화] 4. plotly를 활용한 데이터 시각화 - Coronaboard.kr 따라하기"
+						],
+						"metrics": [
+							{
+								"values": [
+									"4",
+									"7"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - KBO 리그 데이터 분석 (feat. plotly사용법) - 선수들의 타율,나이, 연봉 분석"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - KBO에서 메이저리그로 진출할 선수 예측 (크롤링편)"
 						],
 						"metrics": [
 							{
@@ -105,8 +157,21 @@
 						"metrics": [
 							{
 								"values": [
-									"5",
-									"5"
+									"8",
+									"8"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - Prophet을 이용한 주식 가격 예측"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
 								]
 							}
 						]
@@ -114,32 +179,6 @@
 					{
 						"dimensions": [
 							"Core.Today - PX 인기상품 3편! (어떤 음료수가 인기있나 편)"
-						],
-						"metrics": [
-							{
-								"values": [
-									"2",
-									"2"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 구독, 좋아요 수가 많을수록 조회수가 많이 올라갈까?"
-						],
-						"metrics": [
-							{
-								"values": [
-									"4",
-									"4"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 금연정책 흡연율, 흡연량에 어떠한 변화가 있었을까?"
 						],
 						"metrics": [
 							{
@@ -157,21 +196,8 @@
 						"metrics": [
 							{
 								"values": [
-									"4",
-									"7"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 기업의 실적발표 후 주가는 어떻게 변할까?"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
+									"3",
+									"8"
 								]
 							}
 						]
@@ -184,71 +210,6 @@
 							{
 								"values": [
 									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 데이터로 알아보는 최저임금"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 드라마 단순 예측 1"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 드라마 시청률 예측"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 드라마 예측"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 드라마의 첫 회 시청률과 흥행, 그리고 배우들의 시청률 스탯을 탐색해보자"
-						],
-						"metrics": [
-							{
-								"values": [
-									"2",
 									"2"
 								]
 							}
@@ -256,7 +217,7 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 로또의 상대적 가치 - 서울 아파트"
+							"Core.Today - 로지스틱 맵"
 						],
 						"metrics": [
 							{
@@ -269,7 +230,7 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 멜론차트 분석 - 백현(EXO) vs 아이유, 누가 새벽에 순위가 높을까?"
+							"Core.Today - 맥도날드 한국대표 변화 후 실제로 맛이 바뀌었을까? 혹은 바이럴 마케팅일까??"
 						],
 						"metrics": [
 							{
@@ -282,26 +243,13 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 몬테카를로 방법(Monte carlo)으로 원 넓이 구해보자"
+							"Core.Today - 빈센조 회차별 시간으로 감정 그래프 그리기"
 						],
 						"metrics": [
 							{
 								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 미혼모, 미혼부 데이터 EDA"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
+									"2",
+									"6"
 								]
 							}
 						]
@@ -321,7 +269,7 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 시청률이 높은 미니시리즈 드라마에서 자주 나오는 키워드가 있을까?"
+							"Core.Today - 세계 시총 1위 주식을 산다면?"
 						],
 						"metrics": [
 							{
@@ -334,7 +282,7 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 인구, 성별 데이터 EDA"
+							"Core.Today - 유튜브 카테고리별 좋아요, 싫어요, 댓글 비율분석"
 						],
 						"metrics": [
 							{
@@ -347,7 +295,7 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 인기 API"
+							"Core.Today - 인구, 가구 및 주택 데이터 EDA"
 						],
 						"metrics": [
 							{
@@ -360,7 +308,7 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 자신만의 손절, 익절라인을 지키는 매매와 그렇지 않은 매매, 어느것이 좋은가?"
+							"Core.Today - 코스피, 코스닥의 스토캐스틱 계산하기"
 						],
 						"metrics": [
 							{
@@ -373,104 +321,13 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 지상파 꼼수 중간광고 영향 알아보기"
+							"Core.Today - 티저영상이 많을수록 드라마 시청률이 높을까?!?! 2탄"
 						],
 						"metrics": [
 							{
 								"values": [
 									"1",
 									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 티저영상이 많을수록 드라마 시청률이 높을까?!?!"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"2"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 파이썬 시각화 기초 - 구글 트렌드로 알아보는 데이터속의 신호"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 폭염일수 많은 해에는 농산물 가격이 많이 올라갈까?"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 폭염일수가 많은 1994년, 2018년에 물가가 가장 많이 오른 농작물은?"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 하루라도.. 최저가에 사고싶다.."
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 하루라도..최저가에 사고 싶다. 데이터수집편"
-						],
-						"metrics": [
-							{
-								"values": [
-									"2",
-									"3"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 휴대폰 중고가격 분석 1편 - 아이폰vs갤럭시 중고 휴대폰 가격 및 추이 분석"
-						],
-						"metrics": [
-							{
-								"values": [
-									"2",
-									"2"
 								]
 							}
 						]
@@ -479,12 +336,12 @@
 				"totals": [
 					{
 						"values": [
-							"85",
-							"150"
+							"66",
+							"133"
 						]
 					}
 				],
-				"rowCount": 35,
+				"rowCount": 24,
 				"minimums": [
 					{
 						"values": [
@@ -496,8 +353,8 @@
 				"maximums": [
 					{
 						"values": [
-							"27",
-							"79"
+							"19",
+							"53"
 						]
 					}
 				]

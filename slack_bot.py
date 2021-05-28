@@ -12,7 +12,7 @@ class SlackBot:
         self.client = WebClient(token=token)
 
     def get_token_json(self):
-        with open('slack_api_key.json', 'r') as f:
+        with open('keys/slack_api_key.json', 'r') as f:
             return json.load(f)
 
     def send_daily(self):
