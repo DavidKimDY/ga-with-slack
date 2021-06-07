@@ -27,41 +27,15 @@
 						"metrics": [
 							{
 								"values": [
-									"19",
-									"53"
+									"13",
+									"42"
 								]
 							}
 						]
 					},
 					{
 						"dimensions": [
-							"Core.Today - [공공기관 임금] 기타공공기관&부설기관 기관별 연봉 정보"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - [부동산 스토리] 2017~2020 울산광역시 아파트 실거래가격 변화"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - [부동산 스토리] 전국 아파트 데이터 통계"
+							"Core.Today - [부동산 스토리] 아파트 브랜드 선호도 TOP 11 데이터 통계"
 						],
 						"metrics": [
 							{
@@ -79,8 +53,8 @@
 						"metrics": [
 							{
 								"values": [
-									"4",
-									"11"
+									"12",
+									"21"
 								]
 							}
 						]
@@ -93,7 +67,7 @@
 							{
 								"values": [
 									"4",
-									"11"
+									"8"
 								]
 							}
 						]
@@ -105,8 +79,8 @@
 						"metrics": [
 							{
 								"values": [
-									"5",
-									"11"
+									"1",
+									"1"
 								]
 							}
 						]
@@ -118,8 +92,8 @@
 						"metrics": [
 							{
 								"values": [
-									"4",
-									"7"
+									"1",
+									"1"
 								]
 							}
 						]
@@ -131,8 +105,8 @@
 						"metrics": [
 							{
 								"values": [
-									"2",
-									"2"
+									"1",
+									"1"
 								]
 							}
 						]
@@ -152,20 +126,7 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - LoL(리그오브레전드) 데이터 분석 - 높은 티어와 낮은 티어의 차이는?"
-						],
-						"metrics": [
-							{
-								"values": [
-									"8",
-									"8"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - Prophet을 이용한 주식 가격 예측"
+							"Core.Today - KBO에서 메이저리그로 진출할 선수 예측 (타자편 2)"
 						],
 						"metrics": [
 							{
@@ -178,7 +139,46 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - PX 인기상품 3편! (어떤 음료수가 인기있나 편)"
+							"Core.Today - LoL(리그오브레전드) 데이터 분석 - 높은 티어와 낮은 티어의 차이는?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"2",
+									"4"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 공공데이터"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"2"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 구독, 좋아요 수가 많을수록 조회수가 많이 올라갈까?"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 구독자 수가 많으면 조회수도 많이 올라갈까?"
 						],
 						"metrics": [
 							{
@@ -196,28 +196,15 @@
 						"metrics": [
 							{
 								"values": [
-									"3",
-									"8"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 노인이 자살을 생각하는 이유는?"
-						],
-						"metrics": [
-							{
-								"values": [
 									"1",
-									"2"
+									"1"
 								]
 							}
 						]
 					},
 					{
 						"dimensions": [
-							"Core.Today - 로지스틱 맵"
+							"Core.Today - 대통령이 바뀌면 경제가 바뀔까?"
 						],
 						"metrics": [
 							{
@@ -230,46 +217,7 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 맥도날드 한국대표 변화 후 실제로 맛이 바뀌었을까? 혹은 바이럴 마케팅일까??"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 빈센조 회차별 시간으로 감정 그래프 그리기"
-						],
-						"metrics": [
-							{
-								"values": [
-									"2",
-									"6"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 서핑하기 좋은 달은 언제일까?"
-						],
-						"metrics": [
-							{
-								"values": [
-									"1",
-									"1"
-								]
-							}
-						]
-					},
-					{
-						"dimensions": [
-							"Core.Today - 세계 시총 1위 주식을 산다면?"
+							"Core.Today - 연봉 상위 1000개 기업 및 업종 분석"
 						],
 						"metrics": [
 							{
@@ -295,7 +243,7 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 인구, 가구 및 주택 데이터 EDA"
+							"Core.Today - 자신만의 손절, 익절라인을 지키는 매매와 그렇지 않은 매매, 어느것이 좋은가?"
 						],
 						"metrics": [
 							{
@@ -308,7 +256,20 @@
 					},
 					{
 						"dimensions": [
-							"Core.Today - 코스피, 코스닥의 스토캐스틱 계산하기"
+							"Core.Today - 지도 시각화 - 코로나 국내, 세계 현황(By Choropleth Map)"
+						],
+						"metrics": [
+							{
+								"values": [
+									"1",
+									"1"
+								]
+							}
+						]
+					},
+					{
+						"dimensions": [
+							"Core.Today - 코로나 종식 후 어디로 놀러갈까?"
 						],
 						"metrics": [
 							{
@@ -336,12 +297,12 @@
 				"totals": [
 					{
 						"values": [
-							"66",
-							"133"
+							"48",
+							"93"
 						]
 					}
 				],
-				"rowCount": 24,
+				"rowCount": 21,
 				"minimums": [
 					{
 						"values": [
@@ -353,8 +314,8 @@
 				"maximums": [
 					{
 						"values": [
-							"19",
-							"53"
+							"13",
+							"42"
 						]
 					}
 				]

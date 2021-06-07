@@ -5,9 +5,11 @@ import json
 from apiclient.discovery import build
 from oauth2client.service_account import ServiceAccountCredentials
 
+import os
+
 
 SCOPES = ["https://www.googleapis.com/auth/analytics.readonly"]
-KEY_FILE_LOCATION = "keys/google_analytics_api_key.json"
+KEY_FILE_LOCATION = os.path.join(os.path.dirname(os.path.realpath(__file__)),  "keys/google_analytics_api_key.json")
 VIEW_ID = "214197006"
 VIEW_ID_USER_ID = "214214459"
 
